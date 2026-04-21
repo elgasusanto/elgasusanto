@@ -1,5 +1,8 @@
-# 💫 About Me:
-# Hi, I'm [Your Name] 👋<br><br>I am an **Informatics student at Itenas Bandung**, driven by a passion for building smart, connected systems. My current journey is focused on the **Internet of Things (IoT)**, where I explore how hardware and software work together to solve real-world problems.<br><br>### 🛠 Technical Skills<br>* **IoT & Embedded:** Arduino, ESP32, Sensor Integration, Circuit Design<br>* **Programming:** C/C++, Python, Java<br>* **Interests:** Embedded Systems, Healthcare Tech, and Data Science<br><br>### 🎓 Current Focus<br>* Pursuing my Informatics degree at **Institut Teknologi Nasional (Itenas) Bandung**.<br>* Developing IoT projects ranging from traffic light simulations to health-tech innovations.<br><br>---<br>⚡ Feel free to check out my repositories or reach out for collaborations!
+I am an aspiring programmer with a strong focus on Internet of Things (IoT), passionate about designing and developing intelligent systems that bridge the gap between hardware and software. My work centers on creating efficient, reliable, and scalable solutions using microcontrollers, sensors, and real-time data processing.
+
+Currently, I am pursuing my degree at Institut Teknologi Nasional (Itenas) Bandung, where I continuously strengthen my foundation in software development, embedded systems, and modern technology integration.
+
+I am driven by curiosity and a commitment to continuous learning, always exploring new tools and technologies to enhance my skills. I enjoy turning ideas into practical implementations and am open to collaboration, innovation, and real-world problem solving.
 
 
 ## 🌐 Socials:
