@@ -3,13 +3,13 @@ I am an aspiring programmer with a strong focus on Internet of Things (IoT), pas
 Currently, I am pursuing my degree at Institut Teknologi Nasional (Itenas) Bandung, where I continuously strengthen my foundation in software development, embedded systems, and modern technology integration.
 
 I am driven by curiosity and a commitment to continuous learning, always exploring new tools and technologies to enhance my skills. I enjoy turning ideas into practical implementations and am open to collaboration, innovation, and real-world problem solving.
-____________________________________________________________________________________________________________________________________________________________________
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elgasusanto/elgasusanto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elgasusanto/elgasusanto/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elgasusanto/elgasusanto/output/pacman-contribution-graph.svg">
 </picture>
-____________________________________________________________________________________________________________________________________________________________________
+
+###
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elgaanz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elgaanz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elgasusanto) 
